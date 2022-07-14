@@ -7,3 +7,4 @@ media/
 npm-packages/
 node_modules/
 .DS_Store
+tailwind_css/static/
