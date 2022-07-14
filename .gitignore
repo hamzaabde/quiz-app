@@ -1,0 +1,9 @@
+.vscode
+**/__pycache__/
+*.sqlite3
+*.sqlite3-journal
+uploads/
+media/
+npm-packages/
+node_modules/
+.DS_Store
